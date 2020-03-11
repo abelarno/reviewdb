@@ -28,8 +28,7 @@
       "type":"Broodrooster",
       "name":"Russell Hobbs Colours Plus Classic Cream 23334-56",
       "image":"https://image.coolblue.nl/max/2048x1536/products/1369694",
-      "reviews":{
-         "review":[
+      "reviews":[
             {
                "Name":"Max Spapens",
                "Review":"Deze broodrooster is met name geweldig vanwege het formaat, het is een zeldzaamheid dat je twee slots hebt waar gewone grote Hollandse boterhammen volledig in kunnen. Ook is hij echt merkbaar sneller dan andere roosters.",
@@ -46,6 +45,6 @@
                "sterren":100
             }
          ]
-      }
+      
    }
 ]
