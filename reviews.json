@@ -4,8 +4,7 @@
       "type":"Stofzuiger",
       "name":"Philips SpeedPro FC6724/01",
       "image":"http://design.itnova.nl/customreview/images/stofzuiger.png",
-      "reviews":{
-         "review":[
+       "reviews":[
             {
                "Name":"Richardt",
                "Review":"We hebben de FC6722/01 nu ongeveer een week in gebruik en gebruiken hem vaker als de reguliere stofzuiger, dat is ook direct het grote voordeel!",
@@ -22,6 +21,6 @@
                "sterren":80
             }
          ]
-      }
+      
    }
 ]
