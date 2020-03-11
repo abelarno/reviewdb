@@ -1,17 +1,10 @@
-[
-  {
-    "name": "Richardt",
-    "review": "We hebben de FC6722/01 nu ongeveer een week in gebruik en gebruiken hem vaker als de reguliere stofzuiger, dat is ook direct het grote voordeel!",
-    "sterren": 92
-  },
-  {
-    "name": "christof muylaert",
-    "review": "Tot nu toe zeer tevreden. Degelijke kwaliteit en makkelijk in gebruik. Enige minpunt is dat hij iets zwaarder is aan het handvat en dus soms iets minder wendbaar. Zeker geen reden om deze niet aan te schaffen. Een echte aanrader.",
-    "sterren": 92
-  },
-  {
-    "name": "Duncan Krebbers",
-    "review": "Wij hebben een robotstofzuiger die bij ons het grote werk doet en gebruiken deze stofzuiger vooral voor plekken waar die niet bij kan en voor de keren dat je iets hebt laten vallen en dat opgezogen moet worden.",
-    "sterren": 88
+{
+  "reviews": [
+    { "name": "Richardt", "sterren": 92, "review": "We hebben de FC6722/01 nu ongeveer een week in gebruik en gebruiken hem vaker als de reguliere stofzuiger, dat is ook direct het grote voordeel!" },
+    { "id": "christof muylaert", "sterren": 92, "review": "Tot nu toe zeer tevreden. Degelijke kwaliteit en makkelijk in gebruik. Enige minpunt is dat hij iets zwaarder is aan het handvat en dus soms iets minder wendbaar. Zeker geen reden om deze niet aan te schaffen. Een echte aanrader." },
+    { "id": "Duncan Krebbers", "sterren": 88, "review": "Wij hebben een robotstofzuiger die bij ons het grote werk doet en gebruiken deze stofzuiger vooral voor plekken waar die niet bij kan en voor de keren dat je iets hebt laten vallen en dat opgezogen moet worden." }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
